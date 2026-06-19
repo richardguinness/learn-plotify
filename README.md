@@ -2,7 +2,7 @@
 
 > __"Helping writers to get past writer's block: Providing inspiration for fresh ideas never before seen."__
 
-Plotify is a project I worked on with 3 smart and energetic individuals as the final project during a 9 week data science bootcamp course at Le Wagon in London, December 2022.
+Plotify is a project I worked on in a team of 4 as the final project during a 9 week data science bootcamp course at Le Wagon in London, December 2022.
 
 The goal of the project was to address the paradoxical "writer's block". This is a condition experienced by writers, journalist, and authors everywhere: you can't think of the next thing to write!
 
@@ -60,5 +60,6 @@ Having overcome these, we fine-tuned the model using a Google Colab provided NVI
 
 - [An excellent guide](https://data-dive.com/finetune-german-gpt2-on-tpu-transformers-tensorflow-for-text-generation-of-reviews/) which lead us through the process of fine-tuning. The guide was published in early 2021 using an older Hugging Face Transformers & TensorFlow library version and utilised "Eager Execution" as opposed to JIT so performance was poor. Not a problem for now, but room for improvement
 
+## Licence
 
-
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
